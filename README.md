@@ -4,17 +4,17 @@
 
 Smart SIEM is a system for private enterprises for log management and cybercrime detection.
 
-Beats software collects logs.
-Logstash software filters these logs.
-Elastic Search Database stores logs.
-Machine Learning Module contains models trained on Intrusion Datasets that perform detection in real-time logs data.
-Intrusion Datasets cover all network features.
-Data is pre-processed.
-DT ID3 and MLP models perform detection.
-Node JS backend Module pre-processes real-time data according to models.
-Also extracts important stats and info for SOC security.
-React JS front-end displays all outcomes in the dashboard.
-Datasets and Results are mentioned in Details.docx
+- Beats software collects logs.
+- Logstash software filters these logs.
+- Elastic Search Database stores logs.
+- Machine Learning Module contains models trained on Intrusion Datasets that perform detection in real-time logs data.
+- Intrusion Datasets cover all network features.
+- Data is pre-processed.
+- DT ID3 and MLP models perform detection.
+- Node JS backend Module pre-processes real-time data according to models.
+- Also extracts important stats and info for SOC security.
+- React JS front-end displays all outcomes in the dashboard.
+- Datasets and Results are mentioned in Details.pdf
 
 ### Machine Learning Details 
 
