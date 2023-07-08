@@ -60,3 +60,14 @@ ORI cpu.ipynb
 #### IoT-Based Smart Environment 
 
 IoT.ipynb
+
+
+
+![WhatsApp Image 2023-05-07 at 11 36 15 AM](https://github.com/eishaarif19/Smart-SIEM/assets/63068028/d5034f7f-4dbd-4024-8ea4-9d922a057f3f)
+![WhatsApp Image 2023-05-07 at 12 03 09 PM](https://github.com/eishaarif19/Smart-SIEM/assets/63068028/c9738b06-0ea3-4a0a-aa63-75360483a324)
+![WhatsApp Image 2023-05-07 at 11 36 15 AM](https://github.com/eishaarif19/Smart-SIEM/assets/63068028/0ec86e3e-c62e-4673-9e4a-bc42335db27f)
+![WhatsApp Image 2023-05-07 at 12 05 21 PM](https://github.com/eishaarif19/Smart-SIEM/assets/63068028/fa86ef97-c736-4b08-92dc-08cfb54484e0)
+![WhatsApp Image 2023-05-07 at 12 05 05 PM](https://github.com/eishaarif19/Smart-SIEM/assets/63068028/8cab6049-bd9e-4d43-9d34-b160bfc1825a)
+![WhatsApp Image 2023-05-07 at 12 04 44 PM](https://github.com/eishaarif19/Smart-SIEM/assets/63068028/b18d3593-f681-4aaa-b2d2-ca6702f80a19)
+![WhatsApp Image 2023-05-07 at 12 04 27 PM](https://github.com/eishaarif19/Smart-SIEM/assets/63068028/fab27372-29c8-44e9-8d65-9dc71989b3c6)
+![WhatsApp Image 2023-05-07 at 12 04 07 PM](https://github.com/eishaarif19/Smart-SIEM/assets/63068028/24af5623-29ef-4181-9cb1-928d16d799f5)
